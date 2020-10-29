@@ -1,6 +1,7 @@
 module github.com/janpfeifer/webcam
 
 replace github.com/blackjack/webcam => ./
+replace github.com/blackjack/webcam/ioctl => ./ioctl
 
 go 1.15
 
