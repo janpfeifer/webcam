@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/blackjack/webcam"
+	"github.com/janpfeifer/webcam"
 )
 
 func main() {
